@@ -1,5 +1,7 @@
 # Generative Adversarial Network Papers
-This repository will list out the papers related to Generative Adversarial Networks. \
+This repository will list out the papers related to Generative Adversarial Networks.
+
+
 [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)\
 [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](https://arxiv.org/pdf/1506.05751.pdf)\
 [Adversarial Autoencoders](https://arxiv.org/pdf/1511.05644.pdf)\
