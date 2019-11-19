@@ -2,11 +2,17 @@
 This repository will list out the papers related to Generative Adversarial Networks. 
 
 [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+
 [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](https://arxiv.org/pdf/1506.05751.pdf)
+
 [Adversarial Autoencoders](https://arxiv.org/pdf/1511.05644.pdf)
+
 [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)
+
 [Adversarial Feature Learning](https://arxiv.org/pdf/1605.09782.pdf)
+
 [Adversarially Learned Inference](https://arxiv.org/pdf/1606.00704.pdf)
+
 [f-GAN: Training Generative Neural Samplers usingVariational Divergence Minimization](https://papers.nips.cc/paper/6066-f-gan-training-generative-neural-samplers-using-variational-divergence-minimization.pdf)
 [Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498.pdf)
 [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/pdf/1606.03657.pdf)
